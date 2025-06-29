@@ -4,13 +4,9 @@
   Put your downloaded GIF at: assets/profile.gif
 -->
 
-<p align="center">
-  <img src="assets/profile.gif" alt="Cool Pixel Workspace" width="600"/>
-</p>
+![Banner](./assets/profile.gif)
 
 <h1 align="center">Hi, I’m Ayyub 👋</h1>
-
----
 
 ## 🌐 Connect with me
 
@@ -19,13 +15,13 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/AB7-cpu?label=Follow&style=social" /> 
   </a>
   <a href="https://linkedin.com/in/ayyub-bijapure">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" />
+    <img alt="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" />
   </a>
   <a href="mailto:ayyubbijapure07@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-ayyubbijapure07@gmail.com-D14836?logo=gmail&logoColor=white&style=flat-square" />
+    <img alt="Gmail" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" />
   </a>
   <a href="https://discord.com/users/a_b_7">
-    <img alt="Discord" src="https://img.shields.io/badge/Discord-a_b_7-5865F2?logo=discord&logoColor=white&style=flat-square" />
+    <img alt="Discord" src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="25" />
   </a>
 </p>
 
@@ -39,19 +35,27 @@
 
 ---
 
-## ⚙️ Languages & Tools
+## 🛠️ Languages & Tools
 
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/-Python-3776AB?logo=python&style=flat-square" alt="Python"/><br/>Python</a>
-  <a href="#"><img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&style=flat-square" alt="C++"/><br/>C++</a>
-  <a href="#"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&style=flat-square" alt="JS"/><br/>JavaScript</a>
-  <a href="#"><img src="https://img.shields.io/badge/-LangChain-0066FF?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMDA2NkZGIiB3aWR0aD0iMTYiIGhlaWdodD0iMTYiPjwvc3ZnPg==" alt="LangChain"/><br/>LangChain</a>
-  <a href="#"><img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&style=flat-square" alt="TensorFlow"/><br/>TensorFlow</a>
-  <a href="#"><img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&style=flat-square" alt="PyTorch"/><br/>PyTorch</a>
-  <a href="#"><img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&style=flat-square" alt="Pandas"/><br/>Pandas</a>
-  <a href="#"><img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&style=flat-square" alt="NumPy"/><br/>NumPy</a>
-  <a href="#"><img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&style=flat-square" alt="Scikit-learn"/><br/>Scikit-learn</a>
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=langchain" height="40" alt="LangChain logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="Scikit-learn logo" />
+</div>
 
 ---
 
