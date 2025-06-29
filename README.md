@@ -1,20 +1,20 @@
 <!--
   Repo name: AB7-cpu
   File: README.md at the root
-  Put your downloaded GIF at: assets/profile.gif
+  Place profile GIF at: assets/profile.gif
+  Place LangChain logo at: assets/langchain.png
 -->
 
-![Banner](./assets/profile.gif)
+<p align="center">
+  <img src="assets/profile.gif" alt="Cool Pixel Workspace" width="600"/>
+</p>
 
 <h1 align="center">Hi, I’m Ayyub 👋</h1>
 
 ## 🌐 Connect with me
 
 <p align="center">
-  <a href="https://github.com/AB7-cpu">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/AB7-cpu?label=Follow&style=social" /> 
-  </a>
-  <a href="https://linkedin.com/in/ayyub-bijapure">
+  <a href="https://linkedin.com/in/ayyub-bijapure-a308a3319">
     <img alt="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" />
   </a>
   <a href="mailto:ayyubbijapure07@gmail.com">
@@ -25,15 +25,11 @@
   </a>
 </p>
 
----
-
 ## 💬 About Me
 
 - 🎓 Student aspiring to become an AI Engineer, passionate about solving real-world problems with technology and machine learning.
-- 🤖 Constantly exploring Artificial Intelligence, Data Science, and emerging tech innovations. 
-- 🎮 Tech enthusiast who loves gaming during free time, always eager to learn and build cool projects. 
-
----
+- 🤖 Constantly exploring Artificial Intelligence, Data Science, and emerging tech innovations.
+- 🎮 Tech enthusiast who loves gaming during free time, always eager to learn and build cool projects.
 
 ## 🛠️ Languages & Tools
 
@@ -44,7 +40,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=langchain" height="40" alt="LangChain logo" />
+  <img src="assets/langchain.png" height="40" alt="LangChain logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow logo" />
   <img width="12" />
@@ -57,16 +53,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="Scikit-learn logo" />
 </div>
 
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AB7-cpu&show_icons=true&theme=dark&hide_border=true" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AB7-cpu&layout=compact&theme=dark&hide_border=true" width="48%"/>
 </p>
-
----
 
 ## 📈 GitHub Streak
 
