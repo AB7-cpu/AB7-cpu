@@ -25,9 +25,9 @@
 
 ## 💬 About Me
 
-🎓 Student aspiring to become an AI Engineer, passionate about solving real-world problems with technology and machine learning.
-🤖 Constantly exploring Artificial Intelligence, Data Science, and emerging tech innovations.
-🎮 Tech enthusiast who loves gaming during free time, always eager to learn and build cool projects.
+- 🎓 Student aspiring to become an AI Engineer, passionate about solving real-world problems with technology and machine learning.
+- 🤖 Constantly exploring Artificial Intelligence, Data Science, and emerging tech innovations.
+- 🎮 Tech enthusiast who loves gaming during free time, always eager to learn and build cool projects.
 
 ## 🛠️ Languages & Tools
 
